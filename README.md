@@ -1,0 +1,1 @@
+# -aysnc-messaging-springcloud-rabbitmq
