@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        input :
+          content-type : application/json
+          destination : javatechie
+#debug: true
